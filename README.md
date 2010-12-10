@@ -24,7 +24,7 @@ All the sources and resources of the project are avaible in our Git repository
 hosted by [github.com](http://github.com).To start hacking, check out the code with this
 command line :
 
-    git clone [https://github.com/acollign/Grasy](https://github.com/acollign/Grasy)
+    git clone https://github.com/acollign/Grasy
 
 ### Join us
 
